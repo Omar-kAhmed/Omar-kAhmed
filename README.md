@@ -98,10 +98,6 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 <br/>  
 
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
 </div>  
