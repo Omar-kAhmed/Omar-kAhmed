@@ -106,3 +106,6 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 ## <div align="center">It is a great pleasure having You browsing my profile 
 </div>  
+  
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
