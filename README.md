@@ -88,7 +88,7 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=gotham" align="center" style="width: 100%" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
@@ -107,5 +107,4 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 ## <div align="center">It is a great pleasure having You browsing my profile 
 </div>  
   
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
