@@ -1,14 +1,16 @@
+# **<div align="center">Hello world
+</div>**  
+  
+
 <div align="right">
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" style="width: 100%" />
 </div>  
   
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+----------------------------
 
-### <div align="center">I'm Omar, a computer science geek👨‍💻, software developer and photographer. I am currently working on expanding my real/life experience through projects and internships 🚀</div>  
+I'm Omar, a computer science geek👨‍💻, software developer and photographer. I am currently working on expanding my real/life experience through projects and Here is where my passion meets thinking and creativity so that these lines and numbers appear in the most wonderful possible image, expressing my obsession from childhood to adulthood. I am honored that you take a look at some projects to enter my distinguished world full of zeros and ones. 🚀
+  
   
 
 - 🔭 I’m currently working on finishing [ALX Software Engineering program](https://www.alxafrica.com/software-engineering-2022)  
