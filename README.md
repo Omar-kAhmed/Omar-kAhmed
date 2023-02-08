@@ -1,5 +1,5 @@
-# **<div align="center">Hello world
-</div>**  
+# <div align="center">Hello world
+</div>  
   
 
 <div align="right">
@@ -7,8 +7,9 @@
 </div>  
   
 
-----------------------------
 
+
+### Intro  
 I'm Omar, a computer science geek👨‍💻, software developer and photographer. I am currently working on expanding my real/life experience through projects and Here is where my passion meets thinking and creativity so that these lines and numbers appear in the most wonderful possible image, expressing my obsession from childhood to adulthood. I am honored that you take a look at some projects to enter my distinguished world full of zeros and ones. 🚀
   
   
@@ -29,7 +30,7 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -40,7 +41,7 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,10 +55,6 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -97,24 +94,18 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31i5lqzs73gf35lt4657yc2e763u&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
