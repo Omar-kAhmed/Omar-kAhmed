@@ -108,5 +108,3 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
