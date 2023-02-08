@@ -88,7 +88,7 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&count_private=true&hide_border=tru](https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d)" align="center" style="width: 100%" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
