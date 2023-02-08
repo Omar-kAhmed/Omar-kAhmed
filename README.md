@@ -3,7 +3,7 @@
   
 
 <div align="right">
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" style="width: 80%" />
 </div>  
   
 
@@ -88,9 +88,9 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=gotham" align="center" style="width: 80%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=gotham" align="center" style="width: 90%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&hide_border=true&layout=compact" align="center" style="width: 80%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&hide_border=true&layout=compact" align="center" style="width: 90%" /></div>  
 
 <br/>  
 
