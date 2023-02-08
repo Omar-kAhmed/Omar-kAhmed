@@ -24,7 +24,7 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 - ❓ Ask me about anything related to Software Engineering ﹠ Data Analysis 🔎💻 
 
 
-- 📸 I am passionate about capturing life's beautiful moments through my lens, and showcasing my work on my online [Photography Portfolio] (https://www.flipbookpdf.net/web/site/a79a01c50b226cbb9610db661f26da4bb10673ff202302.pdf.html#page/1) 
+- 📸 I am passionate about capturing life's beautiful moments through my lens, and showcasing my work on my online [Photography Portfolio](https://www.flipbookpdf.net/web/site/a79a01c50b226cbb9610db661f26da4bb10673ff202302.pdf.html#page/1) 
 
 
 
