@@ -8,7 +8,7 @@
   
 
 
-<br/> 
+
 ### Intro  
 I'm Omar, a computer science geek👨‍💻, software developer and photographer. I am currently working on expanding my real life experience through projects and Here is where my passion meets thinking and creativity so that these lines and numbers appear in the most wonderful possible image, expressing my obsession from childhood to adulthood. I am honored that you take a look at some projects to enter my distinguished world full of zeros and ones. 🚀
   
