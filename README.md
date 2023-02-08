@@ -104,4 +104,5 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 <br />
 
-### It is a great pleasure having You browsing my profile 
+## <div align="center">It is a great pleasure having You browsing my profile 
+</div>  
