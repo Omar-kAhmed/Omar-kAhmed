@@ -1,4 +1,4 @@
-# <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Co&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%3C+Hello%2C+world!+%3E;I'm+Omar+Ahmed++;A+software+Engineer...;and+a+Photographer;Great+to+have+your+here+%F0%9F%96%A4'" alt="Typing SVG" /></a>
+# <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Co&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%3C+Hello%2C+world!+%3E;I'm+Omar+Ahmed++;A+software+Engineer...;and+a+Photographer...;Great+to+have+your+here+%F0%9F%96%A4'" alt="Typing SVG" /></a>
 </div>  
   
 
@@ -29,16 +29,48 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 - 📸 I am passionate about capturing life's beautiful moments through my lens, and showcasing my work on my online [Photography Portfolio](https://www.flipbookpdf.net/web/site/a79a01c50b226cbb9610db661f26da4bb10673ff202302.pdf.html#page/1) 
 
 
-
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
+<h1 align="left" style="color:yellow;margin-bottom: 20px;" >  Don't be a stranger, let's Connect  </h1>  <br/>  
+   
+<div align="center">
+<a href="https://github.com/Omar-kAhmed" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@omark_ahmed7" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/omar-k-ahmed/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/miro.king.3367" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamomarkhaledd" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+ <br/>  
+<a href="https://www.behance.net/nodynet" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 8px;" />
+</a>
+</div>  
+
+## Github Stats  
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-KAhmed&theme=dark&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=dark&hide_border=true">  
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
+  </a>
+</div> 
+    
+<!--Github Stats-->  
 <br/>  
 
-
-## My Skill Set  
+  
+  ## My Skill Set  
 <div align="center"> <table><tr><td valign="top" width="50%">
 
 
@@ -65,60 +97,18 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-<h1 align="left" style="color:yellow;margin-bottom: 20px;" >Don't be a stranger, let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
+</td></tr></table> 
+   
   
-<div align="center">
-<a href="https://github.com/Omar-kAhmed" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@omark_ahmed7" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/omar-k-ahmed/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/miro.king.3367" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamomarkhaledd" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
- <br/>  
-<a href="https://www.behance.net/nodynet" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 8px;" />
-</a>
-</div>  
-
-
-
-## Github Stats  
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=dark&hide_border=true">  
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
-  </a>
-  
-<br/>  
-
-  
-
-<br/>  
-
  <p><h4>Hours spent coding this week: </h4>  
 
-<a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Aug 31 2022" /></a>
-</p> 
+ 
+<a href="https://wakatime.com/@0fcf903a-2f84-4e82-a304-4e82a690a2a5"><img src="https://wakatime.com/badge/user/0fcf903a-2f84-4e82-a304-4e82a690a2a5.svg" alt="Total time coded since Feb 23 2023" /></a>
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
 </div>  
-
+   
 <br />
 
 ## <div align="center">It is a great pleasure having You browsing my profile.
