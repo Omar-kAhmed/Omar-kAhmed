@@ -1,19 +1,18 @@
-# <div align="center"> < Hello, world! >
+# <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Co&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%3C+Hello%2C+world!+%3E;I'm+Omar+Ahmed++;A+software+Engineer...;and+a+Photographer;Great+to+have+your+here+%F0%9F%96%A4'" alt="Typing SVG" /></a>
 </div>  
   
 
-<div align="right">
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" style="width: 100%" />
-</div>  
-  
+<div align="left">
 
-<br/>  
+  
+  <!--svg-->
+<img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/header_.png">
+<!--svg-->
 
 <br/>  
 
 ### Intro  
-<br/>  
-
+  
 I'm Omar, a computer science geek👨‍💻, software developer and photographer. I am currently working on expanding my real life experience through projects and Here is where my passion meets thinking and creativity so that these lines and numbers appear in the most wonderful possible image, expressing my obsession from childhood to adulthood. I am honored that you take a look at some projects to enter my distinguished world full of zeros and ones. 🚀
   
   
@@ -71,7 +70,8 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 <br/>  
 
 
-## Connect with me  
+<h1 align="left" style="color:yellow;margin-bottom: 20px;" >Don't be a stranger, let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
+  
 <div align="center">
 <a href="https://github.com/Omar-kAhmed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -97,16 +97,24 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=gotham" align="center" style="width: 100%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=dark&hide_border=true">  
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
+  </a>
+  
 <br/>  
 
   
 
 <br/>  
 
+ <p><h4>Hours spent coding this week: </h4>  
+
+<a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Aug 31 2022" /></a>
+</p> 
+  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
 </div>  
