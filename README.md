@@ -32,7 +32,23 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<h1 align="left" style="color:yellow;margin-bottom: 20px;" >  Don't be a stranger, let's Connect  </h1>  <br/>  
+
+## Github Stats  
+<div align="center">
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-KAhmed&theme=dark&hide_border=true"/>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=dark&hide_border=true">  
+
+  </a>
+</div> 
+    
+<!--Github Stats-->  
+<br/>  
+
+  
+  <h1 align="left" style="color:yellow;margin-bottom: 20px;" >  Don't be a stranger, let's Connect  </h1>  <br/>  
    
 <div align="center">
 <a href="https://github.com/Omar-kAhmed" target="_blank">
@@ -55,20 +71,6 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 8px;" />
 </a>
 </div>  
-
-## Github Stats  
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-KAhmed&theme=dark&hide_border=true"/>
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=dark&hide_border=true">  
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
-  </a>
-</div> 
-    
-<!--Github Stats-->  
-<br/>  
-
   
   ## My Skill Set  
 <div align="center"> <table><tr><td valign="top" width="50%">
