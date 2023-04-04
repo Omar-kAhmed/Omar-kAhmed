@@ -102,13 +102,11 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 </td></tr></table> 
    
-  
-
-  
+ 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
 </div>  
-# <div align="center">It is a great pleasure having You browsing my profile.
+## <div align="center">It is a great pleasure having You browsing my profile.
 </div>  
   
 
