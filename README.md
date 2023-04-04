@@ -103,10 +103,7 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 </td></tr></table> 
    
   
- <p><h4>Hours spent coding this week: </h4>  
 
- 
-<a href="https://wakatime.com/@0fcf903a-2f84-4e82-a304-4e82a690a2a5"><img src="https://wakatime.com/badge/user/0fcf903a-2f84-4e82-a304-4e82a690a2a5.svg" alt="Total time coded since Feb 23 2023" /></a>
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
