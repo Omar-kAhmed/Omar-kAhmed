@@ -102,7 +102,8 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 </td></tr></table> 
    
- 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="omar-k-ahmed" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hu.linkedin.com/in/omar-k-ahmed?trk=profile-badge">Omar K. Ahmed</a></div>
+  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Omar-KAhmed&&style=flat-square" align="center" />
 </div>  
