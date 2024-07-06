@@ -17,13 +17,13 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
   
   
 
-- 🔭 I’m currently working on finishing [ALX Software Engineering program](https://www.alxafrica.com/software-engineering-2022)  
+- 🔭 I’m currently working on finishing The Front End Road Map
   
 
-- 🌱 I’m currently learning Machine learning ﹠ Deep learning in addition to other college courses   
+- 🌱 I’m currently learning JS, React.js, problem Solving, Bootstrap in addition to other college courses   
   
 
-- ❓ Ask me about anything related to Software Engineering ﹠ Data Analysis 🔎💻 
+- ❓ Ask me about anything related to Web Application Development  🔎💻 
 
 
 - 📸 I am passionate about capturing life's beautiful moments through my lens, and showcasing my work on my online [Photography Portfolio](https://www.flipbookpdf.net/web/site/a79a01c50b226cbb9610db661f26da4bb10673ff202302.pdf.html#page/1) 
@@ -92,11 +92,9 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 ### Backend  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>
 
