@@ -35,7 +35,6 @@ I'm Omar, a computer science geek👨‍💻, software developer and photographe
 
 ## Github Stats  
 <div align="center">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-KAhmed&theme=dark&hide_border=true"/>
   <img width="47%" img hight= "60%" src="https://github-readme-stats.vercel.app/api?username=Omar-KAhmed&show_icons=true&theme=dark&hide_border=true">  
   <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-KAhmed&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
